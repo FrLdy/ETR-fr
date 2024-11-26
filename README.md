@@ -16,7 +16,7 @@ The findings highlight the effectiveness of computer-aided text generation for t
 | Model | LoRA   | Prefix           | Full Fine-Tuning |
 | ----- | :----: | :------: | :----------------: |
 |**mBART**| [Link](https://osf.io/download/xt2vy/) (104.8 MB)          | [Link](https://osf.io/download/fr4sj/) (147.6 MB)           | [Link](https://osf.io/download/6qfys/) (2.1 GB)                                |
-| **mBARThez**            |     [Link](https://osf.io/download/n6u3p/) (105.0 MB)     | [Link](https://osf.io/download/u93fs/) (577.4  MB)              | [Link](https://osf.io/download/9dwbh/) (1.7 GB)                                  |
+| **mBARThez**            |     [Link](https://osf.io/download/p39w8/) (105.0 MB)     | [Link](https://osf.io/download/u93fs/) (577.4  MB)              | [Link](https://osf.io/download/9dwbh/) (1.7 GB)                                  |
 | **mT5**            | [Link](https://osf.io/download/jmzg2/) (78.8 MB)          |             [Link](https://osf.io/download/zh6vn/) (218.4 MB) |                                  [Link](https://osf.io/download/wfazd/) (1.8 GB)|
 | **Mistral-7B**            | [Link](https://osf.io/download/ctx8g/) (278.9 MB)          |             [Link](https://osf.io/download/jsp5c/) (2.0 GB)| - |
 <!--| **xxx**            | [Link]()          |             [Link]() |                                  [Link]()|-->
@@ -26,7 +26,6 @@ The findings highlight the effectiveness of computer-aided text generation for t
 <!--## On AdapterHub and HuggingFace-->
 
 <!--Our adapters (LoRA and Prefix) are available on [AdapterHub](https://adapterhub.ml) and full finetuned on [HuggingFace](https://huggingface.co):-->
-
 
 <!--## For Inference-->
 <!---->
